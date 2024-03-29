@@ -1,1 +1,7 @@
-git_ilya_test
+DONE 1. Create a new repo on GitHub
+DONE 2. Clone your repo
+DONE 3. Add a myname.txt file with your name as content to your working directory
+DONE 4. Stage, commit, and push changes
+
+
+ID   >>>> Change your myname.txt file: keep only your initials
